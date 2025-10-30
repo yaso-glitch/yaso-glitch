@@ -1,0 +1,108 @@
+#banner{
+  left: 250px;
+  width: 680px;
+  position: relative;
+  border-style: solid;
+  
+  border-color: rgb(94, 139, 94);
+}
+
+.bio{
+  position: relative;
+  top: -4px;
+  margin: 0px 250px 0px;
+  height: 150px;
+  width: 604px;
+  padding: 0px 38px 30px;
+  border-color: rgb(94, 139, 94);
+  border-style:solid
+}
+
+.tagandbio{
+  color: rgb(167, 178, 155); 
+}
+
+.sidebar{
+  position:fixed;
+  top:125px;
+  height: 240px;
+  width: 195px;
+  border: solid;
+  border-radius: 5%;
+  border-color: rgb(94, 139, 94);
+  background-color:rgb(147, 193, 171);
+  padding: 30px 20px 1px 20px;
+}
+
+.sidebar a {
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+
+/* posts */
+
+.centerstuff{
+  align-items: center;
+}
+
+.window{
+  margin: -6px 250px 0px;
+  height: 155px;
+  width: 620px;
+  padding: 0px 30px 30px;
+  border-color: rgb(94, 139, 94);
+  border-style:solid
+}
+
+.user{
+  margin-left: 10px;
+  font-size: medium;
+  color: white;
+}
+
+.caption{
+  color: rgb(255, 255, 255);
+  margin-left: 10px;
+}
+
+/* the marathon of posts*/
+
+.post2{
+  margin: 23px -32px 100px;
+  height: 1010px;
+  width: 620px;
+  padding: 0px 30px 30px;
+  border-color: rgb(94, 139, 94);
+  border-style:solid
+}
+
+#post3{
+  margin: -101px -32px -100px;
+  height: 400px;
+  width: 620px;
+  padding: 0px 30px 30px;
+  border-color: rgb(94, 139, 94);
+  border-style:solid
+}
+
+/* some letter of introduction, reference/contacts and resume things */
+
+#resume{
+  left: 250px;
+  height: 525px;
+  width: 725px;
+  position: relative;
+}
+
+#reference{
+  border-color: rgb(94, 139, 94);
+  border-style: solid;
+  background-color: rgb(147, 193, 171);
+  height: 375px;
+  width: 620px;
+  padding: 0px 30px 30px;
+  margin: 75px 250px 200px;
+  color: white;
+}
